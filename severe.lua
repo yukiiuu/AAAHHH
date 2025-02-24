@@ -1,6 +1,7 @@
 --[[
     Optimized Lock's Npc Aimbot | Version 1.02
     Original by: Lock the hobo
+    Added Table Support for root parts
 ]]
 
 if not _G.settings then
